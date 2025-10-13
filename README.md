@@ -1,2 +1,2 @@
 # DataTransformationPipeline
-A combination of projects done at the behest of a up and coming startup
+A combination of projects done at the behest of an up and coming startup
